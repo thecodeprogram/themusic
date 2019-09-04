@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="imgIleri">images/forward.jpg</file>
+        <file alias="imgDuraklat">images/pause.jpg</file>
+        <file alias="imgOynat">images/play.jpg</file>
+        <file alias="imgGeri">images/previous.jpg</file>
+        <file alias="imgDurdur">images/stop.jpg</file>
+        <file alias="imgVoiceOff">images/voiceoff.jpg</file>
+        <file alias="imgVoiceOn">images/voiceon.jpg</file>
+        <file alias="programIcon">images/programIcon.ico</file>
+        <file alias="tcpIcon">images/tcp.png</file>
+    </qresource>
+</RCC>
